@@ -8,3 +8,4 @@ A landing page for a startup event which links to an email subscribe form that u
 + HTML
 + CSS
 + Bootstrap CSS
++ Github Pages
